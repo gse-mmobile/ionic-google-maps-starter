@@ -1,4 +1,4 @@
-# Ionic and Google Maps Native SDK v2
+# [DEPRECATED] Ionic and Google Maps Native SDK v2
 Starter using **Google Maps Native SDK v2** and **[Ionic Framework](http://ionicframework.com)** created by me.
 
 <img src="https://cloud.githubusercontent.com/assets/1680157/9290919/b8dc1e5c-437a-11e5-8c91-e047e4810351.png">
